@@ -17,3 +17,35 @@ The project showcases various computer graphics techniques including:
 ### Skybox Mirror effect
 ![Skybox Mirror effect](Showcase/Skybox_Mirror.gif)
 
+### Marble effect
+![Marble effect](Showcase/MarbleEffect.gif)
+
+### Wood effect
+![Wood effect](Showcase/WoodEffect.gif)
+
+### Wireframe
+![Wireframe](Showcase/Wireframe.jpg)
+
+### FLAT shading
+![FLAT shading](Showcase/FLAT.jpg)
+
+### Gouraud shading
+![Gouraud shading](Showcase/Gouraud.jpg)
+
+### Phong shading
+![Phong shading](Showcase/Phong.jpg)
+
+### Cool Green Face
+![Cool Green Face](Showcase/CoolGreenFace.jpg)
+
+### Skybox1
+![Skybo1](Showcase/Skybox1.jpg)
+
+### Skybox2
+![Skybo2](Showcase/Skybox2.jpg)
+
+### Skybox3
+![Skybo3](Showcase/Skybox3.jpg)
+
+
+
